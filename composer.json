@@ -1,9 +1,9 @@
 {
-    "name": "Mr.kk/learn",
+    "name": "mr.kk/learn",
     "description": "Third party message learn",
     "authors": [
         {
-            "name": "Mr.kk"
+            "name": "mr.kk"
         }
     ],
     "license": "MIT",
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Mr.kk\\learn\\": "src/"
+            "mr.kk\\learn\\": "src/"
         }
     }
 }
